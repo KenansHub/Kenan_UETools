@@ -1,0 +1,19 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "0.1.0",
+  "FriendlyName": "Kenan Tools",
+  "Description": "Reusable editor tools for mesh data processing. The first tool is SmoothNormalBaker.",
+  "Category": "Editor",
+  "CreatedBy": "Kenan",
+  "CanContainContent": true,
+  "EnabledByDefault": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "KenanTools",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

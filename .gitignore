@@ -1,0 +1,19 @@
+# Unreal generated output
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE and local workspace state
+.vs/
+.idea/
+.vscode/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
